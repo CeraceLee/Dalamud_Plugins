@@ -19,5 +19,22 @@
         "Changelog": "自用",
         "IsTestingExclusive": false,
         "LastUpdated": "1687785134"
+    },
+    {
+        "Author": "attick, daemitus, alymphocyte, Aki, Iaotle, Codemned, rushtothesun, damolitionn",
+        "Name": "XIVComboCN",
+        "Description": "XIVCombo But For Lazy Gamers, Should Have Everything That Original XIVCombo Has And More +++",
+        "InternalName": "XIVComboCN",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "https://github.com/CeraceLee/Dalamud_Plugins",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 8,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/CeraceLee/Dalamud_Plugins/main/XIVComboCN/XIVComboCN.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/CeraceLee/Dalamud_Plugins/main/XIVComboCN/XIVComboCN.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/CeraceLee/Dalamud_Plugins/main/XIVComboCN/XIVComboCN.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "0"
     }
 ]
